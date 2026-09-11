@@ -33,3 +33,28 @@
 <img width="740" height="310" alt="Снимок экрана 2026-09-11 142103" src="https://github.com/user-attachments/assets/20567bc6-01c5-4390-b8b2-e73bf43b95ab" />
 <img width="736" height="297" alt="Снимок экрана 2026-09-11 142116" src="https://github.com/user-attachments/assets/5bddeaf3-9fce-4f4c-b2c1-11d303b7532f" />
 33 слайд
+
+<img width="610" height="283" alt="Снимок экрана 2026-09-11 142215" src="https://github.com/user-attachments/assets/21ef2e99-f471-4e98-93d4-f8695cc6c312" />
+<img width="249" height="83" alt="image" src="https://github.com/user-attachments/assets/e34634bb-2893-4925-b2b9-d3152b80094a" />
+34 слайд
+
+
+<img width="449" height="331" alt="image" src="https://github.com/user-attachments/assets/8e05ed2b-a0a1-4c31-9c76-bd18d43ab49f" />
+<img width="197" height="120" alt="image" src="https://github.com/user-attachments/assets/ed8990b1-aa69-4ae6-b4f1-efd3edef5390" />
+35 слайд
+
+<img width="381" height="339" alt="image" src="https://github.com/user-attachments/assets/da1410b5-2cb9-40d5-b1ed-650aab7f2fa0" />
+<img width="210" height="96" alt="image" src="https://github.com/user-attachments/assets/87a9ab5d-632b-4219-9991-7c920e9df66b" />
+37 слайд
+
+<img width="569" height="263" alt="image" src="https://github.com/user-attachments/assets/b88f8a90-2cf7-4a48-adfe-5002285098c4" />
+<img width="175" height="45" alt="image" src="https://github.com/user-attachments/assets/2ca77344-3336-4066-99de-4fe835042396" />
+38 слайд
+
+<img width="282" height="344" alt="image" src="https://github.com/user-attachments/assets/975ec5bd-1102-4a91-b260-41ca26ecd550" />
+<img width="454" height="121" alt="image" src="https://github.com/user-attachments/assets/f3ca6dd7-3d30-4bce-b828-b2510cb0740e" />
+39 слайд
+
+<img width="446" height="412" alt="image" src="https://github.com/user-attachments/assets/522e94f4-1c65-439e-8186-2896eb894c99" />
+<img width="883" height="211" alt="image" src="https://github.com/user-attachments/assets/56b4f84e-9293-456b-a841-21d3f6e66db6" />
+40 слайд
